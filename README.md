@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+![](https://raw.githubusercontent.com/0xlitf/0xlitf/output/github-contribution-grid-snake.svg)
